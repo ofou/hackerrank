@@ -1,3 +1,3 @@
 # HackerRank
 
-- [ ] 3 Months Preparation Kit
+- [ ] 3 Months Preparation Kit
